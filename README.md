@@ -1,8 +1,10 @@
 ### *Hello!* I'm Tim Lin 👋
 
-Welcome to my page! I'm an **AI Researcher** specializing in bioprocess modeling and antibody sequence discovery, currently living in Shanghai🏙.
+Welcome to my page! 
 
-- 🔭 Strong passion for: artificial intelligence, particularly in deep learning and neural networks. 
+I'm an **AI Engineer**, currently living in Shanghai🏙. I have a strong passion for interdisciplinary of AI and Biology, particularly in deep learning and neural networks applied for bioprocess modeling and antibody sequence discovery.
+
+![gif](images/expected_improvement.gif)
 
 #### <ins>Languages and Tools:</ins>
 
