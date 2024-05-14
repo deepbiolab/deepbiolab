@@ -3,6 +3,8 @@
 Welcome to my page! 
 
 I'm an **AI Engineer**, currently living in Shanghai🏙. I have a strong passion for interdisciplinary of AI and Biology, particularly in:
+
+#### <ins>Interests:</ins>
 - AI: Neural Networks, Generative Models, Reinforcement Learning, Bayesian Optimization
 - Bio: Bioprocess Modeling, Antibody Sequence Discovery
 
