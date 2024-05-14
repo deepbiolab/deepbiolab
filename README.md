@@ -1,16 +1,15 @@
-### Hi there 👋
+### *Hello!* I'm Tim Lin 👋
 
-<!--
-**deepbiolab/deepbiolab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my page! I'm an **AI Researcher** specializing in bioprocess modeling and antibody sequence discovery, currently living in Shanghai🏙.
 
-Here are some ideas to get you started:
+- 🔭 Strong passion for: artificial intelligence, particularly in deep learning and neural networks. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### <ins>Languages and Tools:</ins>
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/800px-Python-logo-notext.svg.png" alt="Python" height="32"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/PyTorch_logo_icon.svg/800px-PyTorch_logo_icon.svg.png" alt="PyTorch" height="32"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/800px-Jupyter_logo.svg.png" alt="Jupyter" height="32"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="C++" height="32">
+
+#### <ins>Contact me:</ins>
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">](https://www.linkedin.com/in/xiangtian-lin-aa3065251/ "LinkedIn") [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">](mailto:xiangtian.hfut@gmail.com "email")
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deepbiolab&layout=compact&hide_border=true)](https://github.com/deepbiolab/github-readme-stats)
+
