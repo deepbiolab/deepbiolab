@@ -2,7 +2,13 @@
 
 Welcome to my page! 
 
-I'm an **AI Engineer**, currently living in Shanghai🏙. I have a strong passion for interdisciplinary of AI and Biology, particularly in deep learning and neural networks applied for bioprocess modeling and antibody sequence discovery.
+I'm an **AI Engineer**, currently living in Shanghai🏙. I have a strong passion for interdisciplinary of AI and Biology, particularly in:
+- Neural Networks
+- Generative Models
+- Reinforcement Learning
+- Bayesian Optimization
+- Bioprocess Modeling
+- Antibody Sequence Discovery
 
 <p align="center">
   <img src="images/expected_improvement.gif" height="300"> <img src="images/generative_model.gif" height="300"> 
