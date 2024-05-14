@@ -5,7 +5,7 @@ Welcome to my page!
 I'm an **AI Engineer**, currently living in Shanghai🏙. I have a strong passion for interdisciplinary of AI and Biology, particularly in deep learning and neural networks applied for bioprocess modeling and antibody sequence discovery.
 
 <p align="center">
-  <img src="images/expected_improvement.gif" width="500" height="300">
+  <img src="images/expected_improvement.gif" width="800" height="300">
 </p>
 
 #### <ins>Languages and Tools:</ins>
