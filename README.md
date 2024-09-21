@@ -2,7 +2,7 @@
 
 Welcome to my page! 
 
-I'm an **AI Engineer**, currently living in Shanghai🏙. I have a strong passion for interdisciplinary of AI and Biology, particularly in:
+I'm an **AI Researcher**, currently living in Shanghai🏙. I have a strong passion for interdisciplinary of AI and Biology, particularly in:
 
 #### <ins>Interests:</ins>
 - AI: Neural Networks, Generative Models, Reinforcement Learning, Bayesian Optimization
