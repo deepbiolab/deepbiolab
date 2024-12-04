@@ -14,7 +14,7 @@ I'm an **AI Researcher**, currently living in Shanghai🏙. I have a strong pass
 
 #### <ins>Languages and Tools:</ins>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deepbiolab&hide_border=true&langs_count=4&layout=compact)](https://github.com/deepbiolab/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deepbiolab&hide_border=true&langs_count=6&layout=compact)](https://github.com/deepbiolab/github-readme-stats)
 
 #### <ins>Contact me:</ins>
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">](https://www.linkedin.com/in/xiangtian-lin-aa3065251/ "LinkedIn") [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">](mailto:xiangtian.hfut@gmail.com "email")
